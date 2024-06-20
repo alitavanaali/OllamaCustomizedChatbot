@@ -1,5 +1,5 @@
 
-# Ollama Customized Python Chatbot (using Llama3)
+# Ollama/Llama3 Customized Python Chatbot
 
 ## Introduction
 This repository contains a Python-based chatbot that utilizes the Ollama library to interface with large language models (LLMs), specifically leveraging Llama3 for generating responses.
