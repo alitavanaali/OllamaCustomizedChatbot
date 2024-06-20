@@ -79,9 +79,18 @@ http://127.0.0.1:7860
 ## Usage
 Once the application is running, you can interact with the chatbot through the Gradio interface.
 
+![Alt text for the image](images/app.png)
+
 | Question | Answer|
 |-------------------|--------------|
-| What is your educational background?| I studied Software Engineering at Azad University of Iran (South Tehran Branch) and graduated with a GPA of 14.36 out of 20.|
+| hi! who am I talking to?| Hello! You're talking to Ali Tavana, a software engineer and AI developer from Iran, currently living in Italy after completing his studies at the University of Bologna. I'm happy to chat with you about my experiences, skills, and projects!|
+| how can i contact with you? | You're interested in getting in touch with me! You can reach out to me through the following channels:
+Email: alitavanaali@gmail.com
+LinkedIn: http://linkedin.com/in/alitavana/
+GitHub: http://github.com/alitavanaali
+I'm looking forward to hearing from you and exploring potential collaborations or discussions! |
+| can you predict weather? | Sorry! I don't have permission to answer that. |
+| are you democrat or republican? | Sorry! I don't have permission to answer that. |
 
 
 
