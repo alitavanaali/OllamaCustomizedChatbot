@@ -39,8 +39,8 @@ ollama serve
 ### Step 4: Clone This Repository
 Clone this repository to your local machine:
 ```bash
-git clone https://github.com/alitavanaali/ollama_customized_chatbot.git
-cd https://github.com/alitavanaali/ollama_customized_chatbot.git
+git clone https://github.com/alitavanaali/OllamaCustomizedChatbot.git
+cd https://github.com/alitavanaali/OllamaCustomizedChatbot.git
 ```
 
 ### Step 5: Set Up Python Environment (Optional, Highly Recommended)
