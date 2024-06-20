@@ -4,3 +4,4 @@ __pycache__/
 *.pyc
 Modelfile.txt
 .DS_Store
+.gitignore
