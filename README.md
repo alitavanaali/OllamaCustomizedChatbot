@@ -28,6 +28,8 @@ ollama run llama3
 ```
 You can choose other LLMs available in Ollama, but Llama3 is highly recommended as it's one of the best free options available.
 
+![Alt text for the image](images/terminal.png)
+
 ### Step 3: Serve the Model
 Start serving the model using Ollama:
 ```bash
